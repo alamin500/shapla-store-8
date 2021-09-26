@@ -1,10 +1,6 @@
 # Shapla store employee sheet
 
----
-
 ## Our requirements and qualifications:-
-
----
 
 - Work experience
 - Technical and soft skills
@@ -14,8 +10,6 @@
 - Physical abilities and strengths (if applicable)
 
 ## Marketing:-
-
----
 
 - Oversee all tasks performed in the organization's marketing department
 - Create the company's marketing strategy and ensure it matches with company goals
