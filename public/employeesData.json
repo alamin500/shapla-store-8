@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Korim Ahmed",
+    "jobTitleName": "Store Manager",
+    "adress": "Dhaka",
+    "email": "korim45@gmail.com",
+    "salary": 20000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2uBPU23cyXhFi8Hpgz3Ls7VTdHpfNzgqYeQ&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Shakil Khan",
+    "jobTitleName": "Inventory Control",
+    "adress": "Gazipur",
+    "email": "shakil345@gmail.com",
+    "salary": 24000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGAAQCconmPJkF6fyxLydw9sRWtd_l969LQ&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Pavel Hossain",
+    "jobTitleName": "Sales Associate",
+    "adress": "Badda",
+    "email": "pavel989@gmail.com",
+    "salary": 32000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3HBpkf9Bx_Ks8R4DCcxGMKa0grJxqgjgRA&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Rafi Khan",
+    "jobTitleName": "Salesman",
+    "adress": "Comilla",
+    "email": "rafi999@gmail.com",
+    "salary": 22000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ZCzMFzAZPtDnzHX1Qj-kuHNWHSQ8AbhP1Q&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Anisur Rahman",
+    "jobTitleName": "Salesman",
+    "adress": "Faridpur",
+    "email": "anisur98@gmail.com",
+    "salary": 25000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4hVBySrhHHoN3Uo1o-mPBB9xr3UzvP5Ov_Q&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Liton Sarkar",
+    "jobTitleName": "Store Manager",
+    "adress": "Feni",
+    "email": "liton563@gmail.com",
+    "salary": 18000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0OMLzgLlEqw-unuZcLpfoz5xpnuKNlhsEhQ&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Fahim Mojumdar",
+    "jobTitleName": "Salesman",
+    "adress": "Mirpur",
+    "email": "fahim098@gmail.com",
+    "salary": 30000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tAoLeB21ycC9MDu29BmUxfitPpIN-DOF7w&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Kaiyum Prodhan",
+    "jobTitleName": "Cashier",
+    "adress": "Chandpur",
+    "email": "kaiyum345@gmail.com",
+    "salary": 26000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJ7-8Sj-uyqWw0t87AyCXVsipQqHR1PY0Jw&usqp=CAU"
+  },
+  {
+    "id": 1,
+    "name": "Shamim Ahmed",
+    "jobTitleName": "Salesman",
+    "adress": "Rangpur",
+    "email": "shamin546@gmail.com",
+    "salary": 28000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtUCzIZ_RV5EwTMuBJSonAYJ5al0E8ZfZv-A&usqp=CAU"
+  }
+]

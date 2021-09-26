@@ -1,0 +1,15 @@
+.employee-body {
+  text-align: center;
+  border: 1px solid lightgray;
+  margin: 5px;
+  border-radius: 5px;
+  padding: 10px;
+}
+button {
+  background-color: #5da8e2;
+  color: white;
+  border-radius: 10px;
+}
+h6 {
+  color: rgb(233, 155, 12);
+}
