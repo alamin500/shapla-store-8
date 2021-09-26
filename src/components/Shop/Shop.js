@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import Cart from "../Cart/Cart";
 import Employee from "../Employee/Employee";
 import './Shop.css';
-// import {getStoredCart} from '../../FakeData/fakedb'
 
 const Shop = () => {
     const [employees, setEmployees] = useState([]);
@@ -24,9 +23,9 @@ const Shop = () => {
       <div className="employee-container">
         <div className="employee">
             {
-                employees.map(employee=>
+                employees.map((employee,i)=>
                <Employee
-                key={employee.key}
+                key={i}
                 employee={employee}
                 handleAddEmployee={handleAddEmployee}
                 >
